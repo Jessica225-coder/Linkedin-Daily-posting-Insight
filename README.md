@@ -130,6 +130,5 @@ By combining clean, standardized data with an intuitive visualization, the proje
 
 Jessica Nwachukwu
 Data Analyst | Excel | Power BI | SQL | Python
-🔗 LinkedIn Profile | 💻 GitHub Portfolio
 
 
